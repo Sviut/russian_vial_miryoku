@@ -58,7 +58,7 @@
         "KC_NO"
       ],
       [
-        "KC_NO",
+        "KC_LGUI",
         "KC_SLASH",
         "KC_DOT",
         "KC_COMMA",
@@ -132,7 +132,7 @@
         "KC_NO"
       ],
       [
-        "KC_NO",
+        "KC_LGUI",
         "KC_SLASH",
         "KC_DOT",
         "KC_COMMA",
@@ -1051,7 +1051,7 @@
   ],
   "key_override": [
     {
-      "trigger": "KC_S",
+      "trigger": "TD(13)",
       "replacement": "KC_R",
       "layers": 2,
       "trigger_mods": 221,
@@ -1087,7 +1087,7 @@
       "options": 143
     },
     {
-      "trigger": "KC_D",
+      "trigger": "TD(12)",
       "replacement": "KC_S",
       "layers": 2,
       "trigger_mods": 221,
@@ -1096,7 +1096,7 @@
       "options": 143
     },
     {
-      "trigger": "KC_F",
+      "trigger": "TD(11)",
       "replacement": "KC_T",
       "layers": 2,
       "trigger_mods": 221,
@@ -1159,7 +1159,7 @@
       "options": 143
     },
     {
-      "trigger": "KC_J",
+      "trigger": "TD(14)",
       "replacement": "KC_N",
       "layers": 2,
       "trigger_mods": 221,
@@ -1168,7 +1168,7 @@
       "options": 143
     },
     {
-      "trigger": "KC_K",
+      "trigger": "TD(15)",
       "replacement": "KC_E",
       "layers": 2,
       "trigger_mods": 221,
@@ -1177,7 +1177,7 @@
       "options": 143
     },
     {
-      "trigger": "KC_L",
+      "trigger": "TD(16)",
       "replacement": "KC_I",
       "layers": 2,
       "trigger_mods": 221,
@@ -1222,7 +1222,7 @@
       "options": 143
     },
     {
-      "trigger": "KC_SCOLON",
+      "trigger": "TD(10)",
       "replacement": "KC_O",
       "layers": 2,
       "trigger_mods": 221,
