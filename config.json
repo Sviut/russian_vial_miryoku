@@ -35,7 +35,7 @@
         -1,
         -1,
         "KC_ESCAPE",
-        "KC_SPACE",
+        "LT2(KC_SPACE)",
         "KC_TAB",
         -1
       ],
@@ -152,25 +152,25 @@
     ],
     [
       [
-        "KC_TAB",
-        "KC_Q",
-        "KC_W",
-        "LSFT(KC_3)",
-        "LSFT(KC_4)",
-        "LSFT(KC_5)",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
         "KC_LCTRL"
       ],
       [
+        "KC_NO",
+        "KC_LGUI",
+        "KC_LALT",
         "KC_LCTRL",
-        "KC_T",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
+        "KC_LSHIFT",
         "KC_NO",
         "KC_LALT"
       ],
       [
-        "KC_LSHIFT",
+        "KC_NO",
         "KC_NO",
         "KC_NO",
         "KC_NO",
@@ -182,45 +182,45 @@
         -1,
         -1,
         -1,
-        "KC_LGUI",
         "KC_TRNS",
-        "KC_SPACE",
+        "KC_TRNS",
+        "KC_TRNS",
         -1
       ],
       [
-        "KC_BSPACE",
-        "LSFT(KC_0)",
-        "LSFT(KC_9)",
-        "LSFT(KC_8)",
-        "LSFT(KC_7)",
-        "LSFT(KC_6)",
+        "KC_NO",
+        "LGUI(KC_Z)",
+        "LGUI(KC_X)",
+        "LGUI(KC_C)",
+        "LGUI(KC_V)",
+        "SGUI(KC_Z)",
         "KC_RCTRL"
       ],
       [
-        "KC_GRAVE",
-        "KC_BSLASH",
-        "KC_RBRACKET",
-        "KC_LBRACKET",
-        "KC_EQUAL",
-        "KC_MINUS",
+        "KC_NO",
+        "KC_RIGHT",
+        "KC_UP",
+        "KC_DOWN",
+        "KC_LEFT",
+        "KC_CAPSLOCK",
         "KC_RALT"
       ],
       [
-        "LSFT(KC_GRAVE)",
-        "LSFT(KC_BSLASH)",
-        "LSFT(KC_RBRACKET)",
-        "LSFT(KC_LBRACKET)",
-        "LSFT(KC_EQUAL)",
-        "LSFT(KC_MINUS)",
+        "KC_NO",
+        "KC_END",
+        "KC_PGUP",
+        "KC_PGDOWN",
+        "KC_HOME",
+        "KC_INSERT",
         -1
       ],
       [
         -1,
         -1,
         -1,
-        "KC_RGUI",
         "KC_TRNS",
-        "KC_ENTER",
+        "KC_TRNS",
+        "KC_TRNS",
         -1
       ]
     ],
@@ -676,29 +676,29 @@
       200
     ],
     [
-      "KC_D",
-      "KC_LCTRL",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "KC_F",
-      "KC_LSHIFT",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "KC_J",
-      "KC_RSHIFT",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "KC_K",
-      "KC_RCTRL",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
