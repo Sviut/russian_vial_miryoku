@@ -89,9 +89,9 @@
       [
         "KC_NO",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "TD(13)",
+        "TD(12)",
+        "TD(11)",
         "KC_G",
         "KC_NO"
       ],
@@ -125,9 +125,9 @@
       [
         "KC_QUOTE",
         "TD(10)",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "TD(16)",
+        "TD(15)",
+        "TD(14)",
         "KC_H",
         "KC_NO"
       ],
@@ -676,43 +676,43 @@
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      200
-    ],
-    [
-      "KC_NO",
-      "KC_NO",
+      "KC_F",
+      "KC_LSHIFT",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      200
-    ],
-    [
-      "KC_NO",
-      "KC_NO",
+      "KC_D",
+      "KC_LCTRL",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
+      "KC_S",
+      "KC_LALT",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
+      "KC_J",
+      "KC_RSHIFT",
       "KC_NO",
       "KC_NO",
+      200
+    ],
+    [
+      "KC_K",
+      "KC_RCTRL",
+      "KC_NO",
+      "KC_NO",
+      200
+    ],
+    [
+      "KC_L",
+      "KC_RALT",
       "KC_NO",
       "KC_NO",
       200
